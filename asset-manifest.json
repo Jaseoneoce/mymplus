@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mymplus/static/css/main.073c9b0a.css",
+    "main.js": "/mymplus/static/js/main.11891b88.js",
+    "static/js/787.4adef9dd.chunk.js": "/mymplus/static/js/787.4adef9dd.chunk.js",
+    "static/media/logo.svg": "/mymplus/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mymplus/index.html",
+    "main.073c9b0a.css.map": "/mymplus/static/css/main.073c9b0a.css.map",
+    "main.11891b88.js.map": "/mymplus/static/js/main.11891b88.js.map",
+    "787.4adef9dd.chunk.js.map": "/mymplus/static/js/787.4adef9dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.11891b88.js"
+  ]
+}
